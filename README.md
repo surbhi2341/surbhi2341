@@ -29,12 +29,12 @@
 ---
 
 ## 📌 Featured Projects  
-### 🔹 **Project 1 — Your Best Project Name**
+### 🔹 **Project 1 — TravelM@te
 - **Tech Used:** React, API Integration   
 - 📁 Repo: TravelM@te 
 - ⭐ Features: Responsive UI, Dynamic content, API fetch  
 
-### 🔹
+
 
 ---
 
