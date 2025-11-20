@@ -1,7 +1,45 @@
-- 👋 Hi, I’m Surabhi Kumari Btech CSE student
-- 👀 I’m interested in programming 
-- 🌱 I’m currently learning java
-- 
+<h1 align="center">Hi 👋, I'm Surabhi Kumari</h1>
+<h3 align="center">Aspiring Software Developer | MERN Stack Developer | Tech Learner</h3>
+
+---
+
+## 🚀 About Me
+- 🔭 I’m currently working on **React & MERN Projects**
+- 🌱 I’m learning **Full-Stack Development, DSA & APIs**
+- 👯 I’m looking to collaborate on **Open Source & Web Dev Projects**
+- 💬 Ask me about **React, JavaScript, Node.js, Express.js**
+- 📫 How to reach me: **jhasurbhi28@gmail.com**
+- ⚡ Fun fact: *I like turning ideas into real websites!*
+
+---
+
+## 🛠️ Tech Stack  
+**Frontend:**  
+`HTML` • `CSS` • `JavaScript` • `React` • `Tailwind`  
+
+**Backend:**  
+`Node.js` • `Express.js`  
+
+**Database:**  
+`MongoDB`  
+
+**Tools:**  
+`Git` • `GitHub` • `VS Code` 
+
+---
+
+## 📌 Featured Projects  
+### 🔹 **Project 1 — Your Best Project Name**
+- **Tech Used:** React, API Integration   
+- 📁 Repo: TravelM@te 
+- ⭐ Features: Responsive UI, Dynamic content, API fetch  
+
+### 🔹
+
+---
+
+💛 **Thanks for visiting my profile!**
+
 
 <!---
 surbhi2341/surbhi2341 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
