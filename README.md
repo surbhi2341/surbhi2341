@@ -31,9 +31,10 @@
 ## 📌 Featured Projects  
 ### 🔹 **Project 1 — TravelM@te
 - **Tech Used:** React, API Integration
-- 🌐 Live Demo:travel-m-te.vercel.app   
+- 🌐 Live Demo: https://travel-m-te.vercel.app/  
 - 📁 Repo: TravelM@te 
-- ⭐ Features: Responsive UI, Dynamic content, API fetch  
+- ⭐ Features: Responsive UI, Dynamic content, API fetch
+   
 
 
 
